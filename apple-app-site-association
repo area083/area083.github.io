@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "L94KS87M84.com.yj.truck",
+                "paths": [ "/open/*"]
+            }
+        ]
+    }
+}
